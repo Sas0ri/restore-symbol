@@ -14,7 +14,6 @@
 #include <mach-o/arch.h>
 
 
-
 #define RESTORE_SYMBOL_BASE_VERSION "1.0 (64 bit)"
 
 #ifdef DEBUG
